@@ -1,0 +1,17 @@
+{
+    "Main Config": {
+        "Token": "",
+        "Prefix": ">",
+        "Footer": "Developed by api#0002"
+    },
+
+    "Status Config": {
+        "Mobile status?": true,
+        "Activity type": 3,
+        "Status name": "api#0002 OT"
+    },
+
+    "Role Config": {
+        "Perms role ID": 123
+    }
+}
