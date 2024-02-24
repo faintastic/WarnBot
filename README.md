@@ -18,6 +18,5 @@ This is a simple discord bot made using the module `pycord` that can warn a user
 
 ## Developer
 
-- Developed by kova :: api  
-- https://terrorist.bio/api | https://e-z.bio/api | https://kova.rip
-- 
+- Developed by kova
+- https://helenkeller.lol
